@@ -1,4 +1,22 @@
-= Условия использования конструкторов и справочников
+= Описание конструкторов и справочников
+
+Модуль {bo} предоставляет следующие конструкторы и справочники:
+
+* xref:backoffice:desdirs:card-kinds/directory.adoc[]
+* xref:backoffice:desdirs:categories/directory.adoc[]
+* xref:backoffice:desdirs:links/directory.adoc[]
+* xref:backoffice:desdirs:partners/directory.adoc[]
+* xref:backoffice:desdirs:servers/directory.adoc[]
+* xref:backoffice:desdirs:signatures/directory.adoc[]
+* xref:backoffice:desdirs:staff/directory.adoc[]
+* xref:backoffice:desdirs:directories/designer.adoc[]
+* xref:backoffice:desdirs:layouts/designer.adoc[]
+* xref:backoffice:desdirs:numeration/designer.adoc[]
+* xref:backoffice:desdirs:roles/designer.adoc[]
+* xref:backoffice:desdirs:scripts/designer.adoc[]
+* xref:backoffice:desdirs:states/designer.adoc[]
+
+== Условия использования конструкторов и справочников
 
 . При работе с конструкторами и справочниками {dv} *ЗАПРЕЩЕНО* изменять настройки корневых видов карточек, добавляемых модулем _{bo}_: _Документ_, _Задание_, _Группа заданий_, _Согласование_, _Этап согласования_, _Маршрут согласования_ и других.
 +
