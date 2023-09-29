@@ -12,14 +12,11 @@ asciidoc:
     to-req: 'версии 6.1'
     win-req: 'версии 6.1'
     ws-req: 'версии 6.1'
-    long: 'CADES-X Long Type 1'
-    bes: 'CADES-BES'
 
 nav:
 - modules/ROOT/nav.adoc
 - modules/common/common.adoc
 - modules/admin/admin.adoc
-- modules/desdirs/desdirs.adoc
 - modules/user/user.adoc
 
 #  start_page: ROOT:index.adoc
