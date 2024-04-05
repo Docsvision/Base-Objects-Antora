@@ -41,7 +41,7 @@ include::5.5.17@webclient:admin:partial$table.adoc[]
 |В документации отсутствовала информация о необходимости перезапускать пул IIS после выполнения джоба `purge_deleted_object_info`.
 
 |ERR-2624 (SUP-6738)
-|При подключении к {mssql} 2019 из утилиты _CardManager_ появлялась ошибка `Current {dv} Server edition doesn't support Microsoft SQL Server`.
+|При подключении к {mssql} 2019 из утилиты _CardManager_ появлялась ошибка `Current {dv} Server edition doesn't support {mssql} Server`.
 
 |ERR-2575 (SUP-6693)
 |Не срабатывал БП подписки на события в карточке через {wc}.
