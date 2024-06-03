@@ -39,9 +39,6 @@
 |ERR-5398 (SUP-8716)
 |Возникало необработанное исключение `parentCollection is null` при вызове `ObjectContext.RefreshObject[T](T& objectInstance)`, когда передавалась ссылка на файл карточки _Документа_.
 
-|ERR-5397 (SUP-8711)
-|Возникала ошибка `Ссылка на объект не указывает на экземпляр объекта` в почтовом обработчике событий сообщений {of-mc}.
-
 |ERR-5380 (SUP-8699)
 |Исправлена ошибка, при которой метод `IBarcodeService.GetBarcodePrintSettings` не возвращал настройки печати штрих-кода при работе через `DocsVision.Platform.ObjectManager.Rest.dll`.
 
