@@ -166,8 +166,8 @@ image::backoffice:desdirs:select-account.png[Выбор учетной запи�
 //
 // Если в СКД (см. документацию разработчика, раздел "xref:programmer:BackOffice-ObjectModel-Powers:PowerOfAttorney_CL.adoc[]") доверенность хранится в XML-формате, при двойном нажатии на поле _Комментарий_ открывается всплывающее окно со следующими полями:
 //
-// include::5.5.17@webclient:user:docs-sign.adoc[tags=attorney-info]
+// include::dev@webclient:user:docs-sign.adoc[tags=attorney-info]
 // +
 // * Найденные несоответствия -- отображается, если были найдены несоответствия.
 //
-// include::5.5.17@webclient:user:docs-sign.adoc[tags=attorney-if]
+// include::dev@webclient:user:docs-sign.adoc[tags=attorney-if]
