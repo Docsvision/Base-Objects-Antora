@@ -2,7 +2,7 @@ name: backoffice
 version: 'dev'
 display_version: 'dev'
 prerelease: true
-title: Базовые Объекты
+title: Базовые объекты
 asciidoc:
   attributes:
     pl-req: 'версии 6.1'
